@@ -59,7 +59,7 @@ console.log(dolgozoLista)
 dolgozoTorzs.textContent = " ";
 clearField ();
 dolgozoTorzs.textContent = " ";
-loadEmployee ();
+
 
 function clearField (){
     nameInput.value = "",
